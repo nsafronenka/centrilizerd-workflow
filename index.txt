@@ -2,3 +2,7 @@ Index
 
 Index Stevie
 Add navbar
+
+Index from 2!
+Change navbar
+
